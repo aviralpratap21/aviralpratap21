@@ -1,9 +1,9 @@
-# _"Life is just like code — messy drafts, endless bugs, but every fix makes us better."_
+### _"Life is just like code — messy drafts, endless bugs, but every fix makes us better."_
 
 <br>
 <p align="center">
 
-<img alt="Header Image" src="https://raw.githubusercontent.com/abhinandan-khurana/abhinandan-khurana/main/img/top_image.png" />
+<img src = "https://raw.githubusercontent.com/abhinandan-khurana/abhinandan-khurana/main/img/top_image.png" alt="Header Image">
 
 </p>
 <br>

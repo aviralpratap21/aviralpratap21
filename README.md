@@ -52,3 +52,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=aviralpratap21&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=aviralpratap21&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<hr>
+
+### Holopin Badges
+[![An image of @aviralpratap21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aviralpratap21)](https://holopin.io/@aviralpratap21)
+
+<hr>
